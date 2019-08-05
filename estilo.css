@@ -1,0 +1,45 @@
+/******************INICIO LOGIN*******************/
+.login{
+  width: 30%;
+  margin-top: 15px;
+  padding-left: 15px;
+}
+
+.formlogin{
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+/******************INICIO LISTAR USUARIOS*******************/
+.menuSuperior{
+  display: inline-flex;
+  background-color: #9e9e9e;
+  height: 100%;
+  padding: 10px 10px 10px 10px;
+  width: 30%;
+  border-radius: 10px;
+}
+.menuSuperior.col-md-6{
+  float: right;
+}
+.tabelaUsuarios{
+  width: 40%;
+  margin-top: 10px;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-bottom: 15px;
+}
+.tabelaListarUsuarios td{
+  padding: 5px 5px 5px 5px;
+}
+fieldset{
+  border: 1px solid;
+}
+.cadastro{
+height: 100%;
+width: 50%;
+margin-left: 25%;
+margin-right: 25%;
+margin-top: 20px;
+font-size: 14px;
+}
